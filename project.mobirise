@@ -19,7 +19,7 @@
         "display2Font": "Poppins",
         "display2Size": "2.5",
         "display5Font": "Poppins",
-        "display5Size": 2,
+        "display5Size": "1.5",
         "display7Font": "Jost",
         "display7Size": 1.2,
         "display4Font": "Jost",
@@ -62,7 +62,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
