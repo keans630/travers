@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-15_1237",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3890,7 +3890,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#4d4d4d"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323"
